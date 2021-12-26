@@ -1,0 +1,18 @@
+body {
+    width: 700px; margin:0 auto;
+     /* border: 2px solid rgb(255,84,104); */
+    font-size: 18px; text-align: justify;
+}
+p, ul, li {
+    padding: 10px;
+    margin: 10px;
+}
+img {
+    object-fit: cover;
+    width: 100%;
+    border-radius: 30px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+h1 {
+    text-align: center;
+}
